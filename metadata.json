@@ -1,0 +1,5 @@
+{
+  "name": "Shipping Weight Estimator",
+  "description": "A web-based tool to estimate total package weight for cross-border shipping.",
+  "requestFramePermissions": []
+}
